@@ -2,8 +2,8 @@
 ## Introduction
 To examine the previous research findings and to use data from a random sample to make inferences about a population, I conducted different hypothesis tests in R using Kaggle dataset [Medical Cost Personal Datasets](https://www.kaggle.com/mirichoi0218/insurance#insurance.csv).
 ## Steps in Hypothesis Testing
-1. Assumption checking
-2. Define the null hypothesis and alternative hypothesis
+1. Assumption Checking
+2. Define the Null Hypothesis and Alternative Hypothesis
 3. Inferential Statistical Analysis
 ## Conclusion
 1. One-sample t-test was used to establish that the average BMI in the United States is greater than 30, which considered the obesity threshold.
