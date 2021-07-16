@@ -5,6 +5,9 @@ To examine the previous research findings and to use data from a random sample t
 1. Assumption Checking
 2. Define the Null Hypothesis and Alternative Hypothesis
 3. Inferential Statistical Analysis
+   - Significance Level
+   - Test Statistic 
+   - P-Value
 ## Conclusion
 1. One-sample t-test was used to establish that the average BMI in the United States is greater than 30, which considered the obesity threshold.
 2. Two proportion z-test was used to conclude that the proportion of obesity in the southeast is higher than the proportion of obesity in the northwest, which is identical to previous research.
