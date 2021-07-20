@@ -5,6 +5,7 @@ To examine the previous research findings and to use data from a random sample t
 1. Assumption checking
 2. Define the Null hypothesis and Alternative hypothesis
 3. Inferential statistical analysis
+   - Hypothesis test graphs
    - Critical value & Test statistic
    - Significance level & P-value
 ## Conclusion
