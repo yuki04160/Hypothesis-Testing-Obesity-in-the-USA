@@ -1,6 +1,6 @@
 # Hypothesis Testing - Obesity in the USA
 ## Introduction
-To examine the previous research findings and to use data from a random sample to make inferences about a population, I conducted One-sample t-test, Two proportion z-test, F-test, and Two-sample t-test in R using Kaggle dataset - [Medical Cost Personal Datasets](https://www.kaggle.com/mirichoi0218/insurance#insurance.csv).
+To examine the previous research findings and to use data from a random sample to make inferences about the BMI and obesity of a population, I conducted One-sample t-test, Two proportion z-test, F-test, and Two-sample t-test in R using Kaggle dataset - [Medical Cost Personal Datasets](https://www.kaggle.com/mirichoi0218/insurance#insurance.csv).
 ## Steps in Hypothesis Testing
 1. Assumption checking
 2. Define the Null hypothesis and Alternative hypothesis
