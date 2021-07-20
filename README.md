@@ -3,7 +3,7 @@
 To examine the previous research findings and to use data from a random sample to make inferences about a population, I conducted One-sample t-test, Two proportion z-test, F-test, and Two-sample t-test in R using Kaggle dataset - [Medical Cost Personal Datasets](https://www.kaggle.com/mirichoi0218/insurance#insurance.csv).
 ## Steps in Hypothesis Testing
 1. Assumption checking
-2. Define the Null Hypothesis and Alternative Hypothesis
+2. Define the Null hypothesis and Alternative hypothesis
 3. Inferential statistical analysis
    - Critical value & Test statistic
    - Significance level & P-value
