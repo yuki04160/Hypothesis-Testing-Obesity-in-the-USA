@@ -14,4 +14,4 @@ Overall, different kinds of hypothesis tests were used to answer questions and g
 1. <strong>One-sample t-test</strong> was used to establish that the average BMI in the United States is greater than 30, which considered the obesity threshold.
 2. <strong>Two proportion z-test</strong> was used to conclude that the proportion of obesity in the southeast is higher than the proportion of obesity in the northwest, which is identical to previous research.
 3. <strong>F-test</strong> was used to examine the variances of the two populations (BMI of smokers/ BMI of non-smokers).
-4. <strong>Two-sample t-test</strong> was used to establish that there is not enough evidence to prove the negative relationship between cigarette consumption and BMI.
+4. <strong>Two-sample t-test</strong> was used to establish that there is not enough evidence to support the claim that the population mean of smokers BMI is less than the population mean of non-smokers BMI.
